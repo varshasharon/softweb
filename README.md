@@ -92,9 +92,7 @@ Publish the website in the given URL.
                             <p style="text-align: center;"><i >" Techiato was founded with a vision to bridge the gap between technology and innovation. "</i><br><br><br>
                                 -Lara Sidney (CEO)</p>
                         </td>
-                        
                         <td width="900px" >
-                            
                             <p style="text-align: center; font-size: 18px;">We take pride in our team of experienced developers, designers, 
                                 <br><br>and engineers who work collaboratively to deliver software solutions that stand out. <br> 
                             <br>With a strong focus on transparency, communication, and client-centricity,<br><br> we build lasting relationships with our customers.</p>                        
@@ -401,7 +399,6 @@ Publish the website in the given URL.
 .navi{
     display:flex ;
     justify-content: space-between;
-
 }
 .logo{
     font-size: 20px;
@@ -450,7 +447,6 @@ li a:hover{
     margin-right: 50px;
     height: 360px;
     width: 500px;
-
 }
 .content{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -485,7 +481,6 @@ li a:hover{
     width: 8em;
     border-radius: 1rem;
     color: rgb(0, 0, 0);
-
 }
 .t1{
     margin: 40px;
@@ -556,19 +551,16 @@ form {
     display: flex;
     flex-direction: column;
   }
-  
   label {
     margin-bottom: 8px;
     color: #333;
   }
-  
   input, textarea {
     padding: 10px;
     margin-bottom: 16px;
     border: 1px solid #ccc;
     border-radius: 4px;
   }
-  
   input[type="submit"] {
     background-color: #007BFF;
     color: #fff;
@@ -584,7 +576,6 @@ form {
     bottom: 0;
     width: 100%;
   }
-  
 ```
 ## OUTPUT:
 
