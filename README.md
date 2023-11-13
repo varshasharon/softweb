@@ -1,6 +1,6 @@
 # Ex.07 Software Product Company Website
 ## Date:
-
+13.11.2023
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
 
@@ -29,7 +29,7 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 
-index.html
+### index.html
 ```
 <html lang="en">
 <head>
@@ -116,7 +116,7 @@ index.html
 </body>
 </html>
 ```
-prod.html
+### prod.html
 ```
 <html lang="en">
 <head>
@@ -272,7 +272,7 @@ prod.html
 </body>
 </html>
 ```
-asso.html
+### asso.html
 ```
 <html lang="en">
 <head>
@@ -333,7 +333,7 @@ asso.html
 </body>
 </html>
 ```
-contact.html
+### contact.html
 ```
 <html lang="en">
 <head>
@@ -387,7 +387,7 @@ contact.html
 </body>
 </html>
 ```
-style.css
+### style.css
 ```
 
 .home{
@@ -587,16 +587,23 @@ form {
   
 ```
 ## OUTPUT:
+### Home Page
 ![output](1.png)
 ![output](2.png)
 ![output](3.png)
 ![output](4.png)
+
+### Products Page
 ![output](5.png)
 ![output](6.png)
 ![output](7.png)
 ![output](8.png)
+
+### Associates Page
 ![output](9.png)
 ![output](10.png)
+
+### Contact Us Page
 ![output](11.png)
 
 ## RESULT:
